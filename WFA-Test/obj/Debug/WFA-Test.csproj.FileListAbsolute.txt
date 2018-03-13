@@ -1,0 +1,9 @@
+D:\Oprya\WFA-Test\WFA-Test\bin\Debug\WFA-Test.exe.config
+D:\Oprya\WFA-Test\WFA-Test\bin\Debug\WFA-Test.exe
+D:\Oprya\WFA-Test\WFA-Test\bin\Debug\WFA-Test.pdb
+D:\Oprya\WFA-Test\WFA-Test\obj\Debug\WFA-Test.csprojResolveAssemblyReference.cache
+D:\Oprya\WFA-Test\WFA-Test\obj\Debug\WFA_Test.Properties.Resources.resources
+D:\Oprya\WFA-Test\WFA-Test\obj\Debug\WFA-Test.csproj.GenerateResource.Cache
+D:\Oprya\WFA-Test\WFA-Test\obj\Debug\WFA-Test.exe
+D:\Oprya\WFA-Test\WFA-Test\obj\Debug\WFA-Test.pdb
+D:\Oprya\WFA-Test\WFA-Test\obj\Debug\WFA_Test.UserControl1.resources
